@@ -1,7 +1,7 @@
   
 <p align="center">  
   <a href="https://citel.vercel.app/">
-    <img alt="Queen Lara docs" height="300" src="https://raw.githubusercontent.com/Queen LaraBot/Brandimages/main/logos/SocialLogo%201.png">
+    <img alt="Queen Lara docs" height="300" src="https://github.com/OminduAnjane/Queen-Lara-Md/blob/main/assets/images/20230308_190424.jpg">
     <h1 align="center">Queen Lara Md Whatsapp bot</h1>
   </a>
 </p>
