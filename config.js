@@ -11,9 +11,9 @@ global.location = 'Monaragala LK'
 global.gurl = 'https://instagram.com/' // add your username
 global.sudo = process.env.SUDO || '94718080458'
 global.website = 'https://github.com/OminduAnjane/Queen-Lara-Md' //wa.me/+91000000000000
-global.THUMB_IMAGE = process.env.THUMB_IMAGE || 'https://github.com/OminduAnjane/Queen-Lora-Md-2.0V/blob/master/loramedia/lora.jpg'
+global.THUMB_IMAGE = process.env.THUMB_IMAGE || 'https://github.com/OminduAnjane/Queen-Lara-Md/blob/main/assets/images/20230308_190424.jpg'
 module.exports = {
-  botname: process.env.BOT_NAME || 'Queen-Lara-Md',
+  botname: process.env.BOT_NAME || 'Queen-Lora-Md',
   ownername:process.env.OWNER_NAME || 'Omindu Anjana',
   sessionName: process.env.SESSION_ID || 'PUT-HERE',
   author: process.env.PACK_INFO.split(";")[0], 
@@ -37,7 +37,7 @@ module.exports = {
         APP_NAME: process.env.HEROKU_APP_NAME === undefined ? 'zeropgg' : process.env.HEROKU_APP_NAME
     },
   BRANCH: 'main',
-  VERSION: process.env.VERSION === undefined ? 'v.0.0.5' : process.env.VERSION,
+  VERSION: process.env.VERSION === undefined ? 'v.2.0.0' : process.env.VERSION,
  LANG: process.env.THEME|| 'LARALK',
  WORKTYPE: process.env.WORKTYPE === undefined ? 'public' : process.env.WORKTYPE
 };
