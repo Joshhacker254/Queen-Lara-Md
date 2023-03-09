@@ -24,7 +24,7 @@
 
   <p align="center"> Introducing Queen Lara,Queen Lara is designed to bring a whole new level of excitement to your boring WhatsApp use. </p
 
-- Install [External Plugins](https://github.com/SamPandey001/QueenLara-Plugins)
+- Install [External Plugins](https://github.com/SamPandey001/Secktor-Plugins)
 ### Deployment Method
 ---
 1. Click [SCAN](https://QueenLarabot.herokuapp.com/session) and scan QR code. `Whatapp>Three dots>Linked Devices`
